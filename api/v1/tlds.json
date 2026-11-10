@@ -1,0 +1,8624 @@
+{
+  "generatedFrom": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
+  "typeSource": "https://www.iana.org/domains/root/db",
+  "version": "2026111000",
+  "count": 1436,
+  "records": [
+    {
+      "tld": "aaa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aarp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "abb",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "abbott",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "abbvie",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "abc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "able",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "abogado",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "abudhabi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ac",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "academy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "accenture",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "accountant",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "accountants",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aco",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "actor",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ad",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ads",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "adult",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ae",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aeg",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aero",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aetna",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "af",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "afl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "africa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ag",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "agakhan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "agency",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ai",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aig",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "airbus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "airforce",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "airtel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "akdn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "al",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "alibaba",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "alipay",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "allfinanz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "allstate",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ally",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "alsace",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "alstom",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "am",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "amazon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "americanexpress",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "americanfamily",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "amex",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "amfam",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "amica",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "amsterdam",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "analytics",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "android",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "anquan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "anz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ao",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aol",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "apartments",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "app",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "apple",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aq",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aquarelle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ar",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "arab",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aramco",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "archi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "army",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "arpa",
+      "type": "Special Use",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "art",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "arte",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "as",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "asda",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "asia",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "associates",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "at",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "athleta",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "attorney",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "au",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "auction",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "audi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "audible",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "audio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "auspost",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "author",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "auto",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "autos",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "aws",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ax",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "axa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "az",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "azure",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ba",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "baby",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "baidu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "banamex",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "band",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bar",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "barcelona",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "barclaycard",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "barclays",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "barefoot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bargains",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "baseball",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "basketball",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bauhaus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bayern",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bb",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bbc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bbt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bbva",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bcg",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bcn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bd",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "be",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "beats",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "beauty",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "beer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "berlin",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "best",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bestbuy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bet",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bh",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bharti",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bi",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bible",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bid",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bike",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bingo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "biz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bj",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "black",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "blackfriday",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "blockbuster",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "blog",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bloomberg",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "blue",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bms",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bmw",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bnpparibas",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bo",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "boats",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "boehringer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bofa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bom",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bond",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "boo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "book",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "booking",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bosch",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bostik",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "boston",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "boutique",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "box",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "br",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bradesco",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bridgestone",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "broadway",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "broker",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "brother",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "brussels",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bs",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "build",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "builders",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "business",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "buy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "buzz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bv",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "by",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "bzh",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ca",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cab",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cafe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cal",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "call",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "calvinklein",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cam",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "camera",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "camp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "canon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "capetown",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "capital",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "capitalone",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "car",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "caravan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cards",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "care",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "career",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "careers",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cars",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "casa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "case",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cash",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "casino",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "catering",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "catholic",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cba",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cbn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cbre",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cd",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "center",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ceo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cern",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cfa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cfd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ch",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "chanel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "channel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "charity",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "chase",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "chat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cheap",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "chintai",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "christmas",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "chrome",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "church",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ci",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cipriani",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "circle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cisco",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "citadel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "citi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "citic",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "city",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ck",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cl",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "claims",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cleaning",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "click",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "clinic",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "clinique",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "clothing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cloud",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "club",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "clubmed",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "co",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "coach",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "codes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "coffee",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "college",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cologne",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "com",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "commbank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "community",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "company",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "compare",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "computer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "comsec",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "condos",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "construction",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "consulting",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "contact",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "contractors",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cooking",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cool",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "coop",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "corsica",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "country",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "coupon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "coupons",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "courses",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cpa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "credit",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "creditcard",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "creditunion",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cricket",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "crown",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "crs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cruise",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cruises",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cuisinella",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cv",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cx",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cy",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cymru",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cyou",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "cz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dad",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dance",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "data",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "date",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dating",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "datsun",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "day",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dclk",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dds",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "de",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "deal",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dealer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "deals",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "degree",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "delivery",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dell",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "deloitte",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "delta",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "democrat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dental",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dentist",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "desi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "design",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dev",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dhl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "diamonds",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "diet",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "digital",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "direct",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "directory",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "discount",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "discover",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dish",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "diy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dj",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dnp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "do",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "docs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "doctor",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dog",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "domains",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "download",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "drive",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dtv",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dubai",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dupont",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "durban",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dvag",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dvr",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "dz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "earth",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "eat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ec",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "eco",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "edeka",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "edu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "education",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ee",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "eg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "email",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "emerck",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "energy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "engineer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "engineering",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "enterprises",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "epson",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "equipment",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "er",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ericsson",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "erni",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "es",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "esq",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "estate",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "et",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "eu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "eurovision",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "eus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "events",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "exchange",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "expert",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "exposed",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "express",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "extraspace",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fage",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fail",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fairwinds",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "faith",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "family",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fans",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "farm",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "farmers",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fashion",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fast",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fedex",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "feedback",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ferrari",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ferrero",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fi",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fidelity",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fido",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "film",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "final",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "finance",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "financial",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fire",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "firestone",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "firmdale",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fish",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fishing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fit",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fitness",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fj",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "flickr",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "flights",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "flir",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "florist",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "flowers",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fly",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fo",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "foo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "food",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "football",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ford",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "forex",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "forsale",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "forum",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "foundation",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fox",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "free",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fresenius",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "frl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "frogans",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "frontier",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ftr",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fujitsu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fun",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fund",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "furniture",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "futbol",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "fyi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ga",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gal",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gallery",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gallo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gallup",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "game",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "games",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gap",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "garden",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gay",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gb",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gbiz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gd",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gdn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ge",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gea",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gent",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "genting",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "george",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ggee",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gh",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gi",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gift",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gifts",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gives",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "giving",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gl",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "glass",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "global",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "globo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gmail",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gmbh",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gmo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gmx",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "godaddy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gold",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "goldpoint",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "golf",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "goodyear",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "goog",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "google",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gop",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "got",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gov",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gp",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gq",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "grainger",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "graphics",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gratis",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "green",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gripe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "grocery",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "group",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gs",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gucci",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "guge",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "guide",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "guitars",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "guru",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "gy",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hair",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hamburg",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hangout",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "haus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hbo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hdfc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hdfcbank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "health",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "healthcare",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "help",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "here",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hermes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hiphop",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hisamitsu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hitachi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hiv",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hkt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hockey",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "holdings",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "holiday",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "homedepot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "homegoods",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "homes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "homesense",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "honda",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "horse",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hospital",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "host",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hosting",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hotels",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hotmail",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "house",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "how",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hsbc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ht",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hughes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hyatt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "hyundai",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ibm",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "icbc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ice",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "icu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "id",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ie",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ieee",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ifm",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ikano",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "il",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "im",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "imamat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "imdb",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "immo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "immobilien",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "in",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "inc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "industries",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "infiniti",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "info",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ink",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "institute",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "insurance",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "insure",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "int",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "international",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "intuit",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "investments",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "io",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ipiranga",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "iq",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ir",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "irish",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "is",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ismaili",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ist",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "istanbul",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "it",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "itau",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "itv",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jaguar",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "java",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jcb",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "je",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jeep",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jetzt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jewelry",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jll",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jmp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jnj",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jo",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jobs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "joburg",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "joy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jp",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jpmorgan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "jprs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "juegos",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kaufen",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kddi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ke",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kerryhotels",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kerryproperties",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kfh",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kh",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ki",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kia",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kids",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kim",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kindle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kitchen",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kiwi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "km",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "koeln",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "komatsu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kosher",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kp",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kpmg",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kpn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "krd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kred",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kuokgroup",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ky",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kyoto",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "kz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "la",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lacaixa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lamborghini",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lamer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "land",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "landrover",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lanxess",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lasalle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "latino",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "latrobe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "law",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lawyer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lb",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lds",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lease",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "leclerc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lefrak",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "legal",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lego",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lexus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lgbt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "li",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lidl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "life",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lifeinsurance",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lifestyle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lighting",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "like",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lilly",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "limited",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "limo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lincoln",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "link",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "live",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "living",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "llc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "llp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "loan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "loans",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "locker",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "locus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lol",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "london",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lotte",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lotto",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "love",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lpl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lplfinancial",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ls",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ltd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ltda",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lundbeck",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "luxe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "luxury",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "lv",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ly",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ma",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "madrid",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "maif",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "maison",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "makeup",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "man",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "management",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mango",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "map",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "market",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "marketing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "markets",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "marriott",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "marshalls",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mattel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mba",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mckinsey",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "md",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "me",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "med",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "media",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "meet",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "melbourne",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "meme",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "memorial",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "men",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "menu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "merck",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "merckmsd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mh",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "miami",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "microsoft",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mil",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mini",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mint",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mit",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mitsubishi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ml",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mlb",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mls",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mma",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mo",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mobi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mobile",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "moda",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "moe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "moi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mom",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "monash",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "money",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "monster",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mormon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mortgage",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "moscow",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "moto",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "motorcycles",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mov",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "movie",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mp",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mq",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ms",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "msd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mtn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mtr",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "museum",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "music",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mv",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mx",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "my",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "mz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "na",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nab",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nagoya",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "name",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "navy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nba",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ne",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nec",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "net",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "netbank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "netflix",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "network",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "neustar",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "new",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "news",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "next",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nextdirect",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nexus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nfl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ng",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ngo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nhk",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ni",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nico",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nike",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nikon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ninja",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nissan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nissay",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nl",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "no",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nokia",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "norton",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "now",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nowruz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nowtv",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "np",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nra",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nrw",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ntt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nyc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "nz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "obi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "observer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "office",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "okinawa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "olayan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "olayangroup",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ollo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "om",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "omega",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "one",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ong",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "onl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "online",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ooo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "open",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "oracle",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "orange",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "org",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "organic",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "origins",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "osaka",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "otsuka",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ott",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ovh",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pa",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "page",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "panasonic",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "paris",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pars",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "partners",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "parts",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "party",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pay",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pccw",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pe",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pet",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pfizer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ph",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pharmacy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "phd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "philips",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "phone",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "photo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "photography",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "photos",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "physio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pics",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pictet",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pictures",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pid",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pin",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ping",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pink",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pioneer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pizza",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pl",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "place",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "play",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "playstation",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "plumbing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "plus",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pnc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pohl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "poker",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "politie",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "porn",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "post",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "praxi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "press",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "prime",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pro",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "prod",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "productions",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "prof",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "progressive",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "promo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "properties",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "property",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "protection",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pru",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "prudential",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ps",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pub",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "pwc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "py",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "qa",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "qpon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "quebec",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "quest",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "racing",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "radio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "re",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "read",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "realestate",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "realtor",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "realty",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "recipes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "red",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "redumbrella",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rehab",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "reise",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "reisen",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "reit",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "reliance",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ren",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rent",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rentals",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "repair",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "report",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "republican",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rest",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "restaurant",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "review",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "reviews",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rexroth",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rich",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "richardli",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ricoh",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ril",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rip",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ro",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rocks",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rodeo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rogers",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "room",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rs",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rsvp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ru",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rugby",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ruhr",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "run",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "rwe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ryukyu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sa",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "saarland",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "safe",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "safety",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sakura",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sale",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "salon",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "samsclub",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "samsung",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sandvik",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sandvikcoromant",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sanofi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sap",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sarl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sas",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "save",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "saxo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sb",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sbi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sbs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "scb",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "schaeffler",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "schmidt",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "scholarships",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "school",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "schule",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "schwarz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "science",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "scot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sd",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "se",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "search",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "seat",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "secure",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "security",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "seek",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "select",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sener",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "services",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "seven",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sew",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sex",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sexy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sfr",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sh",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shangrila",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sharp",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shell",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shia",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shiksha",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shoes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shop",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shopping",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "shouji",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "show",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "si",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "silk",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sina",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "singles",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "site",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sj",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ski",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "skin",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sky",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "skype",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sl",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sling",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "smart",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "smile",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sncf",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "so",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "soccer",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "social",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "softbank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "software",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sohu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "solar",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "solutions",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "song",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sony",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "soy",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "spa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "space",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sport",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "spot",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "srl",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ss",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "st",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "stada",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "staples",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "star",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "statebank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "statefarm",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "stc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "stcgroup",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "stockholm",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "storage",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "store",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "stream",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "studio",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "study",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "style",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "su",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sucks",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "supplies",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "supply",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "support",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "surf",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "surgery",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "suzuki",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sv",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "swatch",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "swiss",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sx",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sy",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sydney",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "systems",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "sz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tab",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "taipei",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "talk",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "taobao",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "target",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tatamotors",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tatar",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tattoo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tax",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "taxi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tci",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "td",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tdk",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "team",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tech",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "technology",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "temasek",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tennis",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "teva",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "th",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "thd",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "theater",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "theatre",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tiaa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tickets",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tienda",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tips",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tires",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tirol",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tj",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tjmaxx",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tjx",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tkmaxx",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tl",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tmall",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "to",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "today",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tokyo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tools",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "top",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "toray",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "toshiba",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "total",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tours",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "town",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "toyota",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "toys",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tr",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "trade",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "trading",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "training",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "travel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "travelers",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "travelersinsurance",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "trust",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "trv",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tube",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tui",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tunes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tushu",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tv",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tvs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "tz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ua",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ubank",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ubs",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ug",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "uk",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "unicom",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "university",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "uno",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "uol",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ups",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "us",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "uy",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "uz",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "va",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vacations",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vana",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vanguard",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vc",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ve",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vegas",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ventures",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "verisign",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "versicherung",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vet",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vg",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vi",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "viajes",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "video",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vig",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "viking",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "villas",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vin",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vip",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "virgin",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "visa",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vision",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "viva",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vivo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vlaanderen",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vn",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vodka",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "volvo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vote",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "voting",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "voto",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "voyage",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "vu",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wales",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "walmart",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "walter",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wang",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wanggou",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "watch",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "watches",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "weather",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "weatherchannel",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "web",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "webcam",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "weber",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "website",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wed",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wedding",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "weibo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "weir",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wf",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "whoswho",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wien",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wiki",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "williamhill",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "win",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "windows",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wine",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "winners",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wme",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "woodside",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "work",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "works",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "world",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wow",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ws",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wtc",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "wtf",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "xbox",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "xerox",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "xihuan",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "xin",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "xn--11b4c3d",
+      "type": "Generic",
+      "decoded": "कॉम",
+      "script": "Deva"
+    },
+    {
+      "tld": "xn--1ck2e1b",
+      "type": "Generic",
+      "decoded": "セール",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--1qqw23a",
+      "type": "Generic",
+      "decoded": "佛山",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--2scrj9c",
+      "type": "Country Code",
+      "decoded": "ಭಾರತ",
+      "script": "Knda"
+    },
+    {
+      "tld": "xn--30rr7y",
+      "type": "Generic",
+      "decoded": "慈善",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--3bst00m",
+      "type": "Generic",
+      "decoded": "集团",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--3ds443g",
+      "type": "Generic",
+      "decoded": "在线",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--3e0b707e",
+      "type": "Country Code",
+      "decoded": "한국",
+      "script": "Hang"
+    },
+    {
+      "tld": "xn--3hcrj9c",
+      "type": "Country Code",
+      "decoded": "ଭାରତ",
+      "script": "Orya"
+    },
+    {
+      "tld": "xn--3pxu8k",
+      "type": "Generic",
+      "decoded": "点看",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--42c2d9a",
+      "type": "Generic",
+      "decoded": "คอม",
+      "script": "Thai"
+    },
+    {
+      "tld": "xn--45br5cyl",
+      "type": "Country Code",
+      "decoded": "ভাৰত",
+      "script": "Beng"
+    },
+    {
+      "tld": "xn--45brj9c",
+      "type": "Country Code",
+      "decoded": "ভারত",
+      "script": "Beng"
+    },
+    {
+      "tld": "xn--45q11c",
+      "type": "Generic",
+      "decoded": "八卦",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--4dbrk0ce",
+      "type": "Country Code",
+      "decoded": "ישראל",
+      "script": "Hebr"
+    },
+    {
+      "tld": "xn--4gbrim",
+      "type": "Generic",
+      "decoded": "موقع",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--54b7fta0cc",
+      "type": "Country Code",
+      "decoded": "বাংলা",
+      "script": "Beng"
+    },
+    {
+      "tld": "xn--55qw42g",
+      "type": "Generic",
+      "decoded": "公益",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--55qx5d",
+      "type": "Generic",
+      "decoded": "公司",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--5su34j936bgsg",
+      "type": "Generic",
+      "decoded": "香格里拉",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--5tzm5g",
+      "type": "Generic",
+      "decoded": "网站",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--6frz82g",
+      "type": "Generic",
+      "decoded": "移动",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--6qq986b3xl",
+      "type": "Generic",
+      "decoded": "我爱你",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--80adxhks",
+      "type": "Generic",
+      "decoded": "москва",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--80ao21a",
+      "type": "Country Code",
+      "decoded": "қаз",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--80aqecdr1a",
+      "type": "Generic",
+      "decoded": "католик",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--80asehdb",
+      "type": "Generic",
+      "decoded": "онлайн",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--80aswg",
+      "type": "Generic",
+      "decoded": "сайт",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--8y0a063a",
+      "type": "Generic",
+      "decoded": "联通",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--90a3ac",
+      "type": "Country Code",
+      "decoded": "срб",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--90ae",
+      "type": "Country Code",
+      "decoded": "бг",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--90ais",
+      "type": "Country Code",
+      "decoded": "бел",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--9dbq2a",
+      "type": "Generic",
+      "decoded": "קום",
+      "script": "Hebr"
+    },
+    {
+      "tld": "xn--9et52u",
+      "type": "Generic",
+      "decoded": "时尚",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--9krt00a",
+      "type": "Generic",
+      "decoded": "微博",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--b4w605ferd",
+      "type": "Generic",
+      "decoded": "淡马锡",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--bck1b9a5dre4c",
+      "type": "Generic",
+      "decoded": "ファッション",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--c1avg",
+      "type": "Generic",
+      "decoded": "орг",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--c2br7g",
+      "type": "Generic",
+      "decoded": "नेट",
+      "script": "Deva"
+    },
+    {
+      "tld": "xn--cck2b3b",
+      "type": "Generic",
+      "decoded": "ストア",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--cckwcxetd",
+      "type": "Generic",
+      "decoded": "アマゾン",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--cg4bki",
+      "type": "Generic",
+      "decoded": "삼성",
+      "script": "Hang"
+    },
+    {
+      "tld": "xn--clchc0ea0b2g2a9gcd",
+      "type": "Country Code",
+      "decoded": "சிங்கப்பூர்",
+      "script": "Taml"
+    },
+    {
+      "tld": "xn--czr694b",
+      "type": "Generic",
+      "decoded": "商标",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--czrs0t",
+      "type": "Generic",
+      "decoded": "商店",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--czru2d",
+      "type": "Generic",
+      "decoded": "商城",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--d1acj3b",
+      "type": "Generic",
+      "decoded": "дети",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--d1alf",
+      "type": "Country Code",
+      "decoded": "мкд",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--e1a4c",
+      "type": "Country Code",
+      "decoded": "ею",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--eckvdtc9d",
+      "type": "Generic",
+      "decoded": "ポイント",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--efvy88h",
+      "type": "Generic",
+      "decoded": "新闻",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fct429k",
+      "type": "Generic",
+      "decoded": "家電",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fhbei",
+      "type": "Generic",
+      "decoded": "كوم",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--fiq228c5hs",
+      "type": "Generic",
+      "decoded": "中文网",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fiq64b",
+      "type": "Generic",
+      "decoded": "中信",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fiqs8s",
+      "type": "Country Code",
+      "decoded": "中国",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fiqz9s",
+      "type": "Country Code",
+      "decoded": "中國",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fjq720a",
+      "type": "Generic",
+      "decoded": "娱乐",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--flw351e",
+      "type": "Generic",
+      "decoded": "谷歌",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--fpcrj9c3d",
+      "type": "Country Code",
+      "decoded": "భారత్",
+      "script": "Telu"
+    },
+    {
+      "tld": "xn--fzc2c9e2c",
+      "type": "Country Code",
+      "decoded": "ලංකා",
+      "script": "Sinh"
+    },
+    {
+      "tld": "xn--fzys8d69uvgm",
+      "type": "Generic",
+      "decoded": "電訊盈科",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--g2xx48c",
+      "type": "Generic",
+      "decoded": "购物",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--gckr3f0f",
+      "type": "Generic",
+      "decoded": "クラウド",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--gecrj9c",
+      "type": "Country Code",
+      "decoded": "ભારત",
+      "script": "Gujr"
+    },
+    {
+      "tld": "xn--gk3at1e",
+      "type": "Generic",
+      "decoded": "通販",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--h2breg3eve",
+      "type": "Country Code",
+      "decoded": "भारतम्",
+      "script": "Deva"
+    },
+    {
+      "tld": "xn--h2brj9c",
+      "type": "Country Code",
+      "decoded": "भारत",
+      "script": "Deva"
+    },
+    {
+      "tld": "xn--h2brj9c8c",
+      "type": "Country Code",
+      "decoded": "भारोत",
+      "script": "Deva"
+    },
+    {
+      "tld": "xn--hxt814e",
+      "type": "Generic",
+      "decoded": "网店",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--i1b6b1a6a2e",
+      "type": "Generic",
+      "decoded": "संगठन",
+      "script": "Deva"
+    },
+    {
+      "tld": "xn--imr513n",
+      "type": "Generic",
+      "decoded": "餐厅",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--io0a7i",
+      "type": "Generic",
+      "decoded": "网络",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--j1aef",
+      "type": "Generic",
+      "decoded": "ком",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--j1amh",
+      "type": "Country Code",
+      "decoded": "укр",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--j6w193g",
+      "type": "Country Code",
+      "decoded": "香港",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--jlq480n2rg",
+      "type": "Generic",
+      "decoded": "亚马逊",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--jvr189m",
+      "type": "Generic",
+      "decoded": "食品",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--kcrx77d1x4a",
+      "type": "Generic",
+      "decoded": "飞利浦",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--kprw13d",
+      "type": "Country Code",
+      "decoded": "台湾",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--kpry57d",
+      "type": "Country Code",
+      "decoded": "台灣",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--kput3i",
+      "type": "Generic",
+      "decoded": "手机",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--l1acc",
+      "type": "Country Code",
+      "decoded": "мон",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--lgbbat1ad8j",
+      "type": "Country Code",
+      "decoded": "الجزائر",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgb9awbf",
+      "type": "Country Code",
+      "decoded": "عمان",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgba3a3ejt",
+      "type": "Generic",
+      "decoded": "ارامكو",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgba3a4f16a",
+      "type": "Country Code",
+      "decoded": "ایران",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgba7c0bbn0a",
+      "type": "Generic",
+      "decoded": "العليان",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbaam7a8h",
+      "type": "Country Code",
+      "decoded": "امارات",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbab2bd",
+      "type": "Generic",
+      "decoded": "بازار",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbah1a3hjkrd",
+      "type": "Country Code",
+      "decoded": "موريتانيا",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbai9azgqp6j",
+      "type": "Country Code",
+      "decoded": "پاکستان",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbayh7gpa",
+      "type": "Country Code",
+      "decoded": "الاردن",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbbh1a",
+      "type": "Country Code",
+      "decoded": "بارت",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbbh1a71e",
+      "type": "Country Code",
+      "decoded": "بھارت",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbc0a9azcg",
+      "type": "Country Code",
+      "decoded": "المغرب",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbca7dzdo",
+      "type": "Generic",
+      "decoded": "ابوظبي",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbcpq6gpa1a",
+      "type": "Country Code",
+      "decoded": "البحرين",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgberp4a5d4ar",
+      "type": "Country Code",
+      "decoded": "السعودية",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbgu82a",
+      "type": "Country Code",
+      "decoded": "ڀارت",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbi4ecexp",
+      "type": "Generic",
+      "decoded": "كاثوليك",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbpl2fh",
+      "type": "Country Code",
+      "decoded": "سودان",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbt3dhd",
+      "type": "Generic",
+      "decoded": "همراه",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbtx2b",
+      "type": "Country Code",
+      "decoded": "عراق",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mgbx4cd0ab",
+      "type": "Country Code",
+      "decoded": "مليسيا",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--mix891f",
+      "type": "Country Code",
+      "decoded": "澳門",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--mk1bu44c",
+      "type": "Generic",
+      "decoded": "닷컴",
+      "script": "Hang"
+    },
+    {
+      "tld": "xn--mxtq1m",
+      "type": "Generic",
+      "decoded": "政府",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--ngbc5azd",
+      "type": "Generic",
+      "decoded": "شبكة",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--ngbe9e0a",
+      "type": "Generic",
+      "decoded": "بيتك",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--ngbrx",
+      "type": "Generic",
+      "decoded": "عرب",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--node",
+      "type": "Country Code",
+      "decoded": "გე",
+      "script": "Geor"
+    },
+    {
+      "tld": "xn--nqv7f",
+      "type": "Generic",
+      "decoded": "机构",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--nqv7fs00ema",
+      "type": "Generic",
+      "decoded": "组织机构",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--nyqy26a",
+      "type": "Generic",
+      "decoded": "健康",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--o3cw4h",
+      "type": "Country Code",
+      "decoded": "ไทย",
+      "script": "Thai"
+    },
+    {
+      "tld": "xn--ogbpf8fl",
+      "type": "Country Code",
+      "decoded": "سورية",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--otu796d",
+      "type": "Generic",
+      "decoded": "招聘",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--p1acf",
+      "type": "Generic",
+      "decoded": "рус",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--p1ai",
+      "type": "Country Code",
+      "decoded": "рф",
+      "script": "Cyrl"
+    },
+    {
+      "tld": "xn--pgbs0dh",
+      "type": "Country Code",
+      "decoded": "تونس",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--pssy2u",
+      "type": "Generic",
+      "decoded": "大拿",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--q7ce6a",
+      "type": "Country Code",
+      "decoded": "ລາວ",
+      "script": "Laoo"
+    },
+    {
+      "tld": "xn--q9jyb4c",
+      "type": "Generic",
+      "decoded": "みんな",
+      "script": "Hira"
+    },
+    {
+      "tld": "xn--qcka1pmc",
+      "type": "Generic",
+      "decoded": "グーグル",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--qxa6a",
+      "type": "Country Code",
+      "decoded": "ευ",
+      "script": "Grek"
+    },
+    {
+      "tld": "xn--qxam",
+      "type": "Country Code",
+      "decoded": "ελ",
+      "script": "Grek"
+    },
+    {
+      "tld": "xn--rhqv96g",
+      "type": "Generic",
+      "decoded": "世界",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--rovu88b",
+      "type": "Generic",
+      "decoded": "書籍",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--rvc1e0am3e",
+      "type": "Country Code",
+      "decoded": "ഭാരതം",
+      "script": "Mlym"
+    },
+    {
+      "tld": "xn--s9brj9c",
+      "type": "Country Code",
+      "decoded": "ਭਾਰਤ",
+      "script": "Guru"
+    },
+    {
+      "tld": "xn--ses554g",
+      "type": "Generic",
+      "decoded": "网址",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--t60b56a",
+      "type": "Generic",
+      "decoded": "닷넷",
+      "script": "Hang"
+    },
+    {
+      "tld": "xn--tckwe",
+      "type": "Generic",
+      "decoded": "コム",
+      "script": "Kana"
+    },
+    {
+      "tld": "xn--tiq49xqyj",
+      "type": "Generic",
+      "decoded": "天主教",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--unup4y",
+      "type": "Generic",
+      "decoded": "游戏",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--vermgensberater-ctb",
+      "type": "Generic",
+      "decoded": "vermögensberater",
+      "script": "Latn"
+    },
+    {
+      "tld": "xn--vermgensberatung-pwb",
+      "type": "Generic",
+      "decoded": "vermögensberatung",
+      "script": "Latn"
+    },
+    {
+      "tld": "xn--vhquv",
+      "type": "Generic",
+      "decoded": "企业",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--vuq861b",
+      "type": "Generic",
+      "decoded": "信息",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--w4r85el8fhu5dnra",
+      "type": "Generic",
+      "decoded": "嘉里大酒店",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--w4rs40l",
+      "type": "Generic",
+      "decoded": "嘉里",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--wgbh1c",
+      "type": "Country Code",
+      "decoded": "مصر",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--wgbl6a",
+      "type": "Country Code",
+      "decoded": "قطر",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--xhq521b",
+      "type": "Generic",
+      "decoded": "广东",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--xkc2al3hye2a",
+      "type": "Country Code",
+      "decoded": "இலங்கை",
+      "script": "Taml"
+    },
+    {
+      "tld": "xn--xkc2dl3a5ee0h",
+      "type": "Country Code",
+      "decoded": "இந்தியா",
+      "script": "Taml"
+    },
+    {
+      "tld": "xn--y9a3aq",
+      "type": "Country Code",
+      "decoded": "հայ",
+      "script": "Armn"
+    },
+    {
+      "tld": "xn--yfro4i67o",
+      "type": "Country Code",
+      "decoded": "新加坡",
+      "script": "Hani"
+    },
+    {
+      "tld": "xn--ygbi2ammx",
+      "type": "Country Code",
+      "decoded": "فلسطين",
+      "script": "Arab"
+    },
+    {
+      "tld": "xn--zfr164b",
+      "type": "Generic",
+      "decoded": "政务",
+      "script": "Hani"
+    },
+    {
+      "tld": "xxx",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "xyz",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yachts",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yahoo",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yamaxun",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yandex",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "ye",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yodobashi",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yoga",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yokohama",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "you",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "youtube",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yt",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "yun",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "za",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zappos",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zara",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zero",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zip",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zm",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zone",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zuerich",
+      "type": "Generic",
+      "decoded": null,
+      "script": "Latn"
+    },
+    {
+      "tld": "zw",
+      "type": "Country Code",
+      "decoded": null,
+      "script": "Latn"
+    }
+  ]
+}

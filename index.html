@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TLDs API — free static JSON of every top-level domain in the IANA root zone</title>
+<meta name="description" content="All 1,436 TLDs — 309 country-code, 1,126 generic, 1 special-use — with the authoritative type per TLD and the Unicode form of all 151 internationalized domains. No authentication, no rate limit, no server.">
+<style>
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #9198a1;
+    --accent: #58a6ff;
+    --border: #30363d;
+    --card: #161b22;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+  h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+  p.lead { color: var(--muted); font-size: 1.05rem; }
+  a { color: var(--accent); }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .badge {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-right: 0.4rem;
+  }
+  footer.hire-me {
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer.hire-me h3 { margin: 0 0 0.5rem; }
+  footer.hire-me p { margin: 0.25rem 0; }
+  #output {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    min-height: 4rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>TLDs API</h1>
+<p class="lead">
+  All 1,436 top-level domains in the IANA root zone — 309 country-code, 1,126 generic,
+  1 special-use — with the authoritative type per TLD and the Unicode form of all 151
+  internationalized domains. No authentication. No server. No rate limit.
+</p>
+<p>
+  <span class="badge">1,436 TLDs</span>
+  <span class="badge">309 country-code · 1,126 generic · 1 special-use</span>
+  <span class="badge">151 IDN decoded</span>
+  <span class="badge">updated monthly</span>
+</p>
+
+<h2>Try it</h2>
+<pre>curl https://chirag127.github.io/tlds-api/api/v1/tlds.json</pre>
+<p>Or fetch the counts right now:</p>
+<div id="output">Loading…</div>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Description</th><th>Size</th></tr>
+  <tr>
+    <td><code>/api/v1/tlds.json</code></td>
+    <td>All 1,436 records with the IANA version string</td>
+    <td>~156 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/index.json</code></td>
+    <td>Count per type plus the version string</td>
+    <td>&lt;1 KB</td>
+  </tr>
+  <tr>
+    <td><code>/data/tlds.json</code></td>
+    <td>Same data as above (source of truth for the repo)</td>
+    <td>~156 KB</td>
+  </tr>
+</table>
+
+<h2>What you get</h2>
+<table>
+  <tr><th>Field</th><th>Example</th><th>Notes</th></tr>
+  <tr>
+    <td><code>tld</code></td>
+    <td><code>"de"</code></td>
+    <td>Root-zone TLD, lowercase; internationalized domains use their punycode label (<code>xn--p1ai</code>)</td>
+  </tr>
+  <tr>
+    <td><code>type</code></td>
+    <td><code>"Country Code"</code></td>
+    <td>Authoritative type from IANA's root zone database: <code>Country Code</code>, <code>Generic</code> or <code>Special Use</code></td>
+  </tr>
+  <tr>
+    <td><code>decoded</code></td>
+    <td><code>"рф"</code></td>
+    <td>Unicode form of an internationalized domain, decoded from punycode (RFC 3492); <code>null</code> for ASCII TLDs</td>
+  </tr>
+  <tr>
+    <td><code>script</code></td>
+    <td><code>"Cyrl"</code></td>
+    <td>Script column from IANA's root database (<code>Latn</code>, <code>Cyrl</code>, <code>Hani</code>, <code>Deva</code>…)</td>
+  </tr>
+</table>
+
+<h2>How it stays fresh</h2>
+<p>
+  The <code>update.yml</code> workflow runs monthly, fetches
+  <a href="https://data.iana.org/TLD/tlds-alpha-by-domain.txt">tlds-alpha-by-domain.txt</a>
+  and the <a href="https://www.iana.org/domains/root/db">IANA root zone database</a>,
+  regenerates the JSON and commits only when the data actually changed. GitHub Pages serves
+  the result. No server to run.
+</p>
+
+<h2>Data source and accuracy</h2>
+<p>
+  The record set is the <a href="https://www.iana.org/TLD/tlds-alpha-by-domain.txt">IANA TLD
+  list</a> — 1,436 delegated TLDs. The type and script come from the same
+  <a href="https://www.iana.org/domains/root/db">IANA root zone database</a>, which is the
+  authoritative registry: 309 country-code, 1,126 generic, 1 special-use (<code>arpa</code>).
+  The 151 internationalized (IDN) domains carry their punycode label and the decoded Unicode
+  form, decoded with a RFC 3492 decoder verified against the IANA root database's own display
+  names.
+</p>
+
+<h2>Limits, stated plainly</h2>
+<ul>
+  <li>The alpha list only contains delegated TLDs; the root database also lists 5 "eligible" entries that are not yet in the DNS and are therefore excluded here.</li>
+  <li>No registry or sponsor data is included — the root database's manager column is not carried over.</li>
+  <li>Type is only as fresh as IANA's root database page; a very new TLD may briefly carry the fallback classification until the page is updated.</li>
+  <li>The root database is an HTML table, so a redesign of the page would break the type enrichment — the build then falls back to a structural classification and logs a warning.</li>
+</ul>
+
+<h2>Licence</h2>
+<p>Data: the IANA root zone database is published for informational use; this API republishes
+it with attribution to IANA. Code: MIT.</p>
+
+<footer class="hire-me">
+  <h3>Hire me</h3>
+  <p>Chirag Singhal — building free, open APIs and tools.</p>
+  <p>
+    <a href="mailto:chirag@oriz.in">chirag@oriz.in</a> ·
+    <a href="https://github.com/chirag127">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a> ·
+    <a href="https://x.com/singhal127">X</a> ·
+    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+  </p>
+</footer>
+
+</main>
+<script>
+  fetch("api/v1/index.json")
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById("output").textContent =
+        JSON.stringify(d, null, 2);
+    })
+    .catch(() => {
+      document.getElementById("output").textContent =
+        "Live fetch failed here — on GitHub Pages this returns the real data.";
+    });
+</script>
+</body>
+</html>

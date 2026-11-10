@@ -1,0 +1,124 @@
+openapi: 3.1.0
+info:
+  title: TLDs API
+  version: 1.0.0
+  description: >-
+    All 1,436 top-level domains in the IANA root zone — 309 country-code, 1,126 generic,
+    1 special-use — with the authoritative type per TLD and the Unicode form of all 151
+    internationalized domains. Served as static JSON on GitHub Pages; no authentication,
+    no rate limits. A monthly workflow re-fetches IANA's data and commits only when it
+    changed.
+  contact:
+    name: Chirag Singhal
+    email: chirag@oriz.in
+    url: https://github.com/chirag127
+  license:
+    name: MIT
+    url: https://github.com/chirag127/tlds-api/blob/main/LICENSE
+servers:
+  - url: https://chirag127.github.io/tlds-api
+    description: GitHub Pages
+paths:
+  /api/v1/tlds.json:
+    get:
+      summary: All 1,436 TLDs
+      operationId: listTlds
+      responses:
+        "200":
+          description: The complete dataset
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Document"
+  /api/v1/index.json:
+    get:
+      summary: Count per type plus the IANA version string
+      operationId: getIndex
+      responses:
+        "200":
+          description: The index
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [generatedFrom, count, version, byType]
+                properties:
+                  generatedFrom:
+                    type: string
+                    format: uri
+                  count:
+                    type: integer
+                    example: 1436
+                  version:
+                    type: string
+                    example: "2026111000"
+                  byType:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        type:
+                          type: string
+                          example: "Country Code"
+                        count:
+                          type: integer
+                          example: 309
+  /data/tlds.json:
+    get:
+      summary: Full dataset (repo source of truth)
+      operationId: getData
+      responses:
+        "200":
+          description: The complete dataset
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Document"
+components:
+  schemas:
+    Document:
+      type: object
+      required: [generatedFrom, typeSource, version, count, records]
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+          example: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+        typeSource:
+          type: string
+          format: uri
+          example: https://www.iana.org/domains/root/db
+        version:
+          type: string
+          description: IANA alpha-list version
+          example: "2026111000"
+        count:
+          type: integer
+          example: 1436
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/Record"
+    Record:
+      type: object
+      required: [tld, type, decoded, script]
+      properties:
+        tld:
+          type: string
+          description: Root-zone TLD, lowercase; IDN entries use their punycode label
+          example: "de"
+        type:
+          type: string
+          description: IANA root zone database type
+          enum: ["Country Code", "Generic", "Special Use"]
+          example: "Country Code"
+        decoded:
+          type: string
+          nullable: true
+          description: Unicode form of an internationalized domain, decoded from punycode; null for ASCII TLDs
+          example: "рф"
+        script:
+          type: string
+          nullable: true
+          description: Script column from IANA's root database (e.g. Latn, Cyrl, Hani); null when not listed
+          example: "Cyrl"
